@@ -1,11 +1,14 @@
 ## 👋 Hi, I’m @sinanthahir
 
-### A mechanical engineer in love with 🎨 designs, 🤖 robotics and 👨‍💻 automation. 
+### A graduate engineer based on Trivandrum, India. 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Designs, Coding and Robotics.
+
+- 🌱 I’m currently learning Cloud computing and Tensor Flow.
+
+- 💞️ I’m looking to collaborate on Creative Projects.
+
+- 📫 Reach me on [Twitter](https://twitter.com/sinanthahir)
 
 <!---
 sinanthahir/sinanthahir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
