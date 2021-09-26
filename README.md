@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Designs, Coding and Robotics.
 
-- 🌱 I’m currently learning Cloud computing and Tensor Flow.
+- 🌱 I’m currently learning Cloud computing, Data Science and Tensor Flow.
 
 - 💞️ I’m looking to collaborate on Creative Projects.
 
