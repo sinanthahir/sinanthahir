@@ -11,9 +11,9 @@
 - 📫 Reach me on [Twitter](https://twitter.com/sinanthahir)
 
 <div align="center">
-### TechStack
----
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25"></img>
+  <h3> TechStack </h3>
+  <br>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25"></img>
 </div>
 <!---
 sinanthahir/sinanthahir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
