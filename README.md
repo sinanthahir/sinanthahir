@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on Creative Projects.
 
-- 📫 Reach me on [Twitter](https://twitter.com/sinanthahir)
+- 📫 Reach me on [Twitter](https://twitter.com/sinanthahir) / [LinkedIn](https://www.linkedin.com/in/sinanthahir/)
 
 <h2> TechStack </h2>
 
