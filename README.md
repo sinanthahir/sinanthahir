@@ -21,7 +21,6 @@
 
 
 ## 📝 Latest Articles and Blogs
----
 
 <!-- BLOG-POST-LIST:START -->
 - [Machine Learning for Recognizing Handwritten Digits](https://sinanthahir.medium.com/machine-learning-for-recognizing-handwritten-digits-6e631d6c0582?source=rss-e7013590ace3------2)
