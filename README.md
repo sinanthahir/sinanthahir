@@ -20,7 +20,9 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="40"></img>
 
 
-### 📝 Latest Articles and Blogs
+## 📝 Latest Articles and Blogs
+---
+
 <!-- BLOG-POST-LIST:START -->
 - [Machine Learning for Recognizing Handwritten Digits](https://sinanthahir.medium.com/machine-learning-for-recognizing-handwritten-digits-6e631d6c0582?source=rss-e7013590ace3------2)
 - [Experience Analysis through Weather Data : Exploratory Data Analysis](https://sinanthahir.medium.com/experience-analysis-through-weather-data-exploratory-data-analysis-b438ceca8a9b?source=rss-e7013590ace3------2)
