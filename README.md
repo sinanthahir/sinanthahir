@@ -23,11 +23,11 @@
 ## 📝 Latest Articles and Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Data Science : Even when you are broke](https://sinanthahir.medium.com/learn-data-science-even-when-you-are-broke-b5561e837f7c?source=rss-e7013590ace3------2)
 - [Machine Learning for Recognizing Handwritten Digits](https://sinanthahir.medium.com/machine-learning-for-recognizing-handwritten-digits-6e631d6c0582?source=rss-e7013590ace3------2)
 - [Experience Analysis through Weather Data : Exploratory Data Analysis](https://sinanthahir.medium.com/experience-analysis-through-weather-data-exploratory-data-analysis-b438ceca8a9b?source=rss-e7013590ace3------2)
 - [Matlab Modeling and Simulation : Cheat Sheet](https://sinanthahir.medium.com/matlab-modeling-and-simulation-cheat-sheet-a401f9084ec5?source=rss-e7013590ace3------2)
 - [Become a CFD Engineer — Opportunities, Scope &amp; Preparation](https://sinanthahir.medium.com/become-a-cfd-engineer-opportunities-scope-preparation-893d4e8350d1?source=rss-e7013590ace3------2)
-- [You Should Start A Podcast : Effective Content Delivery](https://sinanthahir.medium.com/you-should-start-a-podcast-effective-content-delivery-c56aebfef275?source=rss-e7013590ace3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
