@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" width="40"></img>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" width="40"></img>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="40"></img>
-
+  <img src="https://media-exp1.licdn.com/dms/image/C560BAQGbNutqXFCq8g/company-logo_200_200/0/1591199049957?e=2159024400&v=beta&t=iB-iPCCeUCJJXxH95YsQjQqAIMILdiiZWS1Q7mSD2ew" width="40"></img>
 
 ## 📝 Latest Articles and Blogs
 
